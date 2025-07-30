@@ -1,5 +1,4 @@
 package programs_day2;
-import java.io.File;
 public class Exersice6 {
    public static void main(String[] args) 
    {
